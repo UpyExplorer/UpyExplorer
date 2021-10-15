@@ -5,8 +5,8 @@
 
 ## Bem-vindo a UpyExplorer!
 
-## 🚀 Link API Completa
-- http://www.indexoffy.com/
+## 🚀 Link
+- http://www.upyexplorer.com/
 
 ## ✔️ Introdução
 
